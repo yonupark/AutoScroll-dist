@@ -1,0 +1,4 @@
+# The page is generated on Windows and served as-is; keep line endings stable
+# so a rebuild of the same version is a genuine no-op.
+*.html text eol=lf
+*.apk  binary
